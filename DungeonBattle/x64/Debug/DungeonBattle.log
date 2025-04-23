@@ -1,0 +1,9 @@
+﻿  dungeon.cpp
+C:\Users\joman\Documents\GitHub\Dungeon-Battle\dungeon.cpp(6,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joman\Documents\GitHub\Dungeon-Battle\dungeon.cpp(22,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\joman\Documents\GitHub\Dungeon-Battle\dungeon.cpp(45,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joman\Documents\GitHub\Dungeon-Battle\dungeon.cpp(162,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\joman\Documents\GitHub\Dungeon-Battle\dungeon.cpp(163,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  DungeonBattle.vcxproj -> C:\Users\joman\Documents\GitHub\Dungeon-Battle\x64\Debug\DungeonBattle.exe
